@@ -4,5 +4,12 @@
     <string name="app_name">DatabaseBeta</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="etHintTitle">Title</string>
+    <string name="etHintDescription">Description</string>
+    <string name="etHintSearch">Search</string>
+    <string name="btnSearchStr">Search</string>
+    <string name="btnAddStr">Add</string>
+    <string name="btnClearStr">Clear</string>
+    <string name="btnRefreshStr">Refresh</string>
 
 </resources>
